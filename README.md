@@ -1,9 +1,5 @@
 # atomphys_ea
 
-<p align="left">
-  <a href="https://mgrau.github.io/atomphys/"><img src="https://github.com/EvgAnikin/atomphys_ea/blob/main/docs/img/logo_ea.svg" alt="atomphys logo"></a>
-</p>
-
 <!--intro-start-->
 
 A Python package to help with atomic physics calculations  (fork of [atomphys](https://github.com/mgrau/atomphys))
